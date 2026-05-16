@@ -2,7 +2,7 @@ import telebot
 import os
 
 # Yahan apna asli token daalna mat bhulna bhai
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'  
+BOT_TOKEN = '8928404549:AAEIDWFYDQ76v388cbUB42xjtgepejWLqYE'  
 bot = telebot.TeleBot(BOT_TOKEN)
 
 @bot.chat_join_request_handler()
